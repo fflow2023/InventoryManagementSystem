@@ -1,0 +1,32 @@
+[
+    {
+        "caretX": 6,
+        "caretY": 510,
+        "filename": "F:/Code/pCwork/库存管理系统/Manager.cpp",
+        "focused": false,
+        "isOpen": true,
+        "leftChar": 1,
+        "order": 1,
+        "topLine": 505
+    },
+    {
+        "caretX": 1,
+        "caretY": 91,
+        "filename": "F:/Code/pCwork/库存管理系统/Manager.h",
+        "focused": false,
+        "isOpen": true,
+        "leftChar": 1,
+        "order": 2,
+        "topLine": 72
+    },
+    {
+        "caretX": 4,
+        "caretY": 54,
+        "filename": "F:/Code/pCwork/库存管理系统/main.cpp",
+        "focused": true,
+        "isOpen": true,
+        "leftChar": 1,
+        "order": 0,
+        "topLine": 1
+    }
+]
